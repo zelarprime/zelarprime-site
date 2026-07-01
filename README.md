@@ -1,3 +1,3 @@
-# Zelar Prime V6 Premium Final
+# Zelar Prime V7 com Antes e Depois
 
-Versão premium com visual refinado, Área do Cliente, Trabalhe Conosco, Blog, Resultados e Orçamento.
+Versão com a imagem realista de Antes e Depois adicionada ao site.
