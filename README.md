@@ -1,3 +1,3 @@
-# Zelar Prime V5 Premium Agência
+# Zelar Prime V6 Premium Final
 
-Versão mais completa com Área do Cliente, Trabalhe Conosco, Blog, Resultados, Depoimentos e Orçamento.
+Versão premium com visual refinado, Área do Cliente, Trabalhe Conosco, Blog, Resultados e Orçamento.
