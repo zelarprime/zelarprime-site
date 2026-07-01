@@ -1,3 +1,3 @@
-# Zelar Prime V3 Premium Oficial
+# Zelar Prime V4 Premium Oficial
 
-Suba todos os arquivos no GitHub Pages para atualizar o site.
+Logo corrigido na raiz do projeto. Suba todos os arquivos no GitHub Pages.
