@@ -1,5 +1,3 @@
-# Zelar Prime Site
+# Zelar Prime V2 Premium - GitHub Pages
 
-Pronto para GitHub Pages.
-
-Arquivos: index.html, style.css, script.js, assets e .nojekyll.
+Site pronto para publicar no GitHub Pages.

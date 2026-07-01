@@ -1,4 +1,4 @@
-function wa(text){window.open('https://wa.me/5511971416309?text='+encodeURIComponent(text),'_blank')}
+function wa(t){window.open('https://wa.me/5511971416309?text='+encodeURIComponent(t),'_blank')}
 function sendBudget(e){e.preventDefault();wa(`Olá, sou ${nome.value}. Telefone: ${telefone.value}. Condomínio: ${condominio.value}. Bairro: ${bairro.value}. Mensagem: ${mensagem.value}`)}
 function sendCV(e){e.preventDefault();wa(`Olá, gostaria de enviar meu currículo para a Zelar Prime. Nome: ${cvnome.value}. CPF: ${cvcpf.value}. Telefone: ${cvtel.value}. E-mail: ${cvemail.value}. Cidade/Bairro: ${cvcidade.value}. Cargo: ${cvcargo.value}. Experiência: ${cvexp.value}. Vou anexar meu currículo nesta conversa.`)}
 function clientArea(e){e.preventDefault();wa(`Olá, sou cliente/condomínio: ${clienteNome.value}. E-mail: ${clienteEmail.value}. Documento: ${clienteDoc.value}. Telefone: ${clienteTel.value}. Solicitação: ${clienteAcao.value}.`)}
