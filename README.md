@@ -1,3 +1,3 @@
-# Zelar Prime V2 Premium - GitHub Pages
+# Zelar Prime V3 Premium Oficial
 
-Site pronto para publicar no GitHub Pages.
+Suba todos os arquivos no GitHub Pages para atualizar o site.
